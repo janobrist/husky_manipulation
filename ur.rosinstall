@@ -5,7 +5,7 @@
 - git:
   uri: https://github.com/UniversalRobots/Universal_Robots_ROS_Driver.git
   local-name: universal_robots_ros_driver
-  version: master
+  version: v1.3.1
 - git:
   uri: https://github.com/UniversalRobots/Universal_Robots_ROS_scaled_controllers.git
   local-name: universal_robots_scaled_controllers
